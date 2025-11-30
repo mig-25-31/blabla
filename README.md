@@ -1,2 +1,2 @@
 # blabla
-0
+bu kod deposu odev zirvaliklari icin yapildi.
